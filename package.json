@@ -1,0 +1,9 @@
+{
+  "name": "pdf-to-gp",
+  "version": "1.0.0",
+  "private": true,
+  "description": "PDF 吉他谱转 Guitar Pro (.gp) 转换器 - 文字版 PDF 识别 + alphaTab 写文件",
+  "dependencies": {
+    "@coderline/alphatab": "^1.8.4"
+  }
+}

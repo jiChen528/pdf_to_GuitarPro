@@ -1,0 +1,18 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+
+# PyInstaller 构建产物
+build/
+dist/
+*.spec
+
+# Node 依赖（用 npm install 重建）
+node_modules/
+
+# 临时/测试输出
+_spec_dump.json
+_selftest.txt
+tests/out/
+.zcode/
